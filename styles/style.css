@@ -143,7 +143,7 @@ nav ul li a{
 .option div {
     width: 25px;
     height: 2px;
-    background-color: #000;
+    background-color: var(--primaryIconColor);
     margin: 7px;
     transition: all .3s;
     z-index: 99;
@@ -219,7 +219,7 @@ nav ul li a{
 .education .line div {
     width: 2px;
     height: 100%;
-    background: var(--borderColor);
+    background: var(--primaryIconColor);
     position: relative;
 }
 
@@ -235,11 +235,11 @@ nav ul li a{
     content: "";
     width: 15px;
     height: 15px;
-    background: var(--borderColor);
+    background: var(--primaryIconColor);
     border-radius: 50%;
     position: absolute;
     left: -6px;
-}
+    }
 
 .skills-list {
     display: grid;
@@ -346,7 +346,7 @@ nav ul li a{
   }
   
   .footer-icons svg {
-    fill: #3e3f40;
+    fill: var(--primaryIconColor);
   }
   
   .footer-icons a:hover svg {
