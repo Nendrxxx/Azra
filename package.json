@@ -1,0 +1,22 @@
+{
+  "name": "azra",
+  "version": "1.0.0",
+  "description": "azraitsme",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nendrxxx/Azra.git"
+  },
+  "keywords": [
+    "cv"
+  ],
+  "author": "Nendrxxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nendrxxx/Azra/issues"
+  },
+  "homepage": "https://github.com/Nendrxxx/Azra#readme"
+}
