@@ -19,4 +19,8 @@
     "url": "https://github.com/Nendrxxx/Azra/issues"
   },
   "homepage": "https://github.com/Nendrxxx/Azra#readme"
+  "publishConfig": {
+   "Nendrxxx:registry": "https://npm.pkg.github.com"
+	}
+
 }
